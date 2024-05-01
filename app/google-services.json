@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417652196198",
+    "project_id": "empresaalimentos2-90285",
+    "storage_bucket": "empresaalimentos2-90285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417652196198:android:63c04969b7c21e600d7ea7",
+        "android_client_info": {
+          "package_name": "com.example.empresaalimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpJANNgKuVl4NFkk6UuZ_9CMEOYxag9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
